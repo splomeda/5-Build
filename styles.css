@@ -128,7 +128,7 @@ footer {
   .card-row {
     display: flex;
   }
-  .card-row > sections {
+  .card-row > section {
     width: 30%;
   }
 }
